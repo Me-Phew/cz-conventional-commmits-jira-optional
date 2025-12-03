@@ -3,5 +3,5 @@ name = "cz-conventional-commmits-jira-optional"
 version = "0.1.0"
 description = "Commitizen configuration to create conventional commits with optional Jira support."
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.0"
 dependencies = ["commitizen>=4.10.0", "setuptools>=80.9.0"]
