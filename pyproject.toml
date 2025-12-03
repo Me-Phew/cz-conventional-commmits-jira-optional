@@ -1,5 +1,5 @@
 [project]
-name = "cz-conventional-commmits-jira-optional"
+name = "cz-conventional-commits-jira-optional"
 version = "0.1.0"
 description = "Commitizen configuration to create conventional commits with optional Jira support."
 readme = "README.md"

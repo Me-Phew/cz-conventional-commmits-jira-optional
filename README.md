@@ -1,4 +1,4 @@
-# cz_conventional_commmits_jira_optional
+# cz_conventional_commits_jira_optional
 
 ## Usage
 

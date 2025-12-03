@@ -271,6 +271,6 @@ class ConventionalCommitsJiraOptionalCz(BaseCommitizen):
 
     def info(self) -> str:
         dir_path = os.path.dirname(os.path.realpath(__file__))
-        filepath = os.path.join(dir_path, "cz_conventional_commmits_jira_optional_info.txt")
+        filepath = os.path.join(dir_path, "cz_conventional_commits_jira_optional_info.txt")
         with open(filepath, encoding=self.config.settings["encoding"]) as f:  # type: ignore
             return f.read()
